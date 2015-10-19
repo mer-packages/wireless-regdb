@@ -1,3 +1,0 @@
-[submodule "wireless-regdb"]
-	path = wireless-regdb
-	url = git://git.kernel.org/pub/scm/linux/kernel/git/linville/wireless-regdb.git
